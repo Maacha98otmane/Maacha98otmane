@@ -10,7 +10,7 @@
 ### You can find in me in the web 🌍
 
 
-[![LinkedIn](http://img.shields.io/badge/-facebook-0077B5?style=flat&logo=facebook&logoColor=white)][linkedin]
+[![facebook](http://img.shields.io/badge/-facebook-0077B5?style=flat&logo=facebook&logoColor=white)][facebook]
 [![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
