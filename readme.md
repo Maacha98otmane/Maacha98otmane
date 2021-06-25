@@ -31,9 +31,16 @@
 
 <br />
 <br />
+<hr>
+<a href="#stats">
+<img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=Maacha98otmane&layout=compact" />
+</a>
 
----
-[![Maacha GitHub stats](https://github-readme-stats.vercel.app/api?username=Maacha98otmane)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/maacha98otmane">
+  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=maacha98otmane&show_icons=true&theme=radical" alt="maacha Stats" />
+</a>
+
 
 
 [twitter]: https://twitter.com/almaarifa2
