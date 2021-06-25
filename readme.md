@@ -49,8 +49,6 @@
 <br />
 <br />
 
-<a href="#"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maacha98otmane&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
-
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=maacha98otmane)](https://github.com/maacha98otmane)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=maacha98otmane&show_icons=true&hide_border=true)](https://github.com/maacha98otmane)
