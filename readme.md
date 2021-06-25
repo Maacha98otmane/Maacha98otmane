@@ -32,14 +32,19 @@
 <br />
 <br />
 <hr>
-<a href="#stats">
+<a href="https://github.com/maacha98otmane">
+  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=maacha98otmane&show_icons=true&theme=radical" alt="maacha Stats" />
+</a>
+
+<a href="https://github.com/maacha98otmane">
 <img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=Maacha98otmane&layout=compact" />
 </a>
 
 
-<a href="https://github.com/maacha98otmane">
-  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=maacha98otmane&show_icons=true&theme=radical" alt="maacha Stats" />
-</a>
+
+
+
+
 
 
 
