@@ -1,5 +1,5 @@
 ### Hi there, I'm Maacha 👋
-[![github](https://img.shields.io/badge/-github-0077B5?style=flat&logo=github&logoColor=white)][Main Account]
+Main Account: [![github](https://img.shields.io/badge/-github-0077B5?style=flat&logo=github&logoColor=white)][github]
 ## I'm a Full-Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
